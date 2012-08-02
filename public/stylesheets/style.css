@@ -1,0 +1,20 @@
+html { height: 100%; width: 100%; overflow: hidden; }
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#draggable {
+            position: relative;
+            width: 100px;
+            height: 100px;
+            padding: 0.5em;
+            float: left;
+            margin: 10px 10px 10px 0;
+            background-color: gray;
+            border: 2px solid gray;
+}
