@@ -15,7 +15,7 @@ function startQuiz() {
     var ip = randomIP();
     var mask = randomMask();
     var answer = ip + "/" + mask;
-    var question1 = "Give the IP address and subnet mask:";
+    var question1 = "Given the IP address and subnet mask:";
     var question2 = "Network address is?";
 
     $( "#question1").text(question1);
@@ -45,9 +45,9 @@ function checkAnswer() {
     
         var distance = levenshtein(myGuess, myAnswer);
    
-        var myArray = [ "AWESOME!", "getting close!", ];
+        var myArray = [ "AWESOME!", "getting close!", "think you got what it takes?" ];
    
-        if (distance < 2) {
+        if (distance < 3) {
             var response = myArray[distance];
             $( "label[for='myGuess']" ).text(response);
             
@@ -61,6 +61,7 @@ function checkAnswer() {
         }
         else {
             $( "label[for='myGuess']" ).text("good luck!");
+            
         }
     }
 }

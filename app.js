@@ -29,7 +29,7 @@ app.configure('development', function(){
     require('swig').init({cache:false});
 });
 
-netUtils = require('net-utils');
+//netUtils = require('net-utils');
 
 app.get('/', routes.index);
 
