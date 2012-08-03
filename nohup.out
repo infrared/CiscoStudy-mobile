@@ -1,0 +1,36 @@
+Express server listening on port 3000
+[90mGET / [32m200 [90m15ms - 2.43kb[0m
+[90mGET /javascripts/jquery-mobile-textbox.js [36m304 [90m6ms[0m
+[90mGET /stylesheets/jquery-mobile-textbox.css [36m304 [90m6ms[0m
+[90mGET /javascripts/levenshtein.js [36m304 [90m1ms[0m
+[90mGET /javascripts/my.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m3ms - 2.43kb[0m
+[90mGET /stylesheets/jquery-mobile-textbox.css [36m304 [90m1ms[0m
+[90mGET /javascripts/levenshtein.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-mobile-textbox.js [36m304 [90m1ms[0m
+[90mGET /javascripts/my.js [32m200 [90m3ms - 3.04kb[0m
+[90mGET /forums/topic/21/CCNA-R-S--640-802-or-640-816--study-section [33m404 [90m2ms[0m
+[90mGET / [32m200 [90m1ms - 2.43kb[0m
+[90mGET / [32m200 [90m2ms - 2.43kb[0m
+[90mGET / [32m200 [90m1ms - 2.43kb[0m
+[90mGET /stylesheets/jquery-mobile-textbox.css [32m200 [90m2ms - 2.29kb[0m
+[90mGET /javascripts/my.js [32m200 [90m14ms - 3.04kb[0m
+[90mGET /javascripts/levenshtein.js [32m200 [90m15ms - 977[0m
+[90mGET /javascripts/jquery-mobile-textbox.js [32m200 [90m14ms - 12.74kb[0m
+[90mGET /forums/topic/2/OSI-or-TCP-IP-models [33m404 [90m1ms[0m
+[90mGET / [32m200 [90m2ms - 2.43kb[0m
+[90mGET / [32m200 [90m1ms - 2.43kb[0m
+[90mGET /stylesheets/jquery-mobile-textbox.css [36m304 [90m0ms[0m
+[90mGET /javascripts/jquery-mobile-textbox.js [36m304 [90m0ms[0m
+[90mGET /javascripts/levenshtein.js [36m304 [90m1ms[0m
+[90mGET /javascripts/my.js [36m304 [90m3ms[0m
+[90mGET / [32m200 [90m1ms - 2.43kb[0m
+[90mGET /stylesheets/jquery-mobile-textbox.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-mobile-textbox.js [36m304 [90m1ms[0m
+[90mGET /javascripts/levenshtein.js [36m304 [90m1ms[0m
+[90mGET /javascripts/my.js [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m1ms - 2.43kb[0m
+[90mGET /stylesheets/jquery-mobile-textbox.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-mobile-textbox.js [36m304 [90m0ms[0m
+[90mGET /javascripts/levenshtein.js [36m304 [90m1ms[0m
+[90mGET /javascripts/my.js [36m304 [90m1ms[0m
